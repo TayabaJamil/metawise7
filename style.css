@@ -1,0 +1,99 @@
+.main{
+    height: 500px;
+    width: 500px;
+    background-color: red;
+}
+.b{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    left: 106px;
+}
+.d{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    left: 305px; 
+   
+}
+.f{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 105px;
+
+}
+.h{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    left: 205px;
+    top: 106px;
+}
+.j{
+    height: 100px;
+    width: 103px;
+    background-color: black;
+    position: absolute;
+    left: 405px;
+    top: 106px;
+}
+.l{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 203px;
+    left: 106px;
+}
+.n{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 203px;
+    left: 305px;
+}
+.p{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 303px;
+}
+.r{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 303px;
+    left: 206px;
+}
+.t{
+    height: 100px;
+    width: 103px;
+    background-color: black;
+    position: absolute;
+    top: 303px;
+    left: 405px;
+}
+.v{
+    height: 104px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 403px;
+    left: 107px;
+}
+.x{
+    height: 104px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 403px;
+    left: 305px;
+}
